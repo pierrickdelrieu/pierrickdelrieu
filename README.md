@@ -16,7 +16,7 @@
 ![picalgo](https://img.shields.io/visual-studio-marketplace/d/pierrickdelrieu.pic-algo)
 
 
-and many others in my [portfolio](https:www.pierrickdelrieu.com/projects)
+and many others in my [portfolio](https://www.pierrickdelrieu.com/projects)
 
 <!--
 
