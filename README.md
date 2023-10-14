@@ -12,9 +12,11 @@
 
 #### Github action
 
-
 #### - Pic Algo
 ![picalgo](https://img.shields.io/visual-studio-marketplace/d/pierrickdelrieu.pic-algo)
+
+
+and many others in my [portfolio](https:www.pierrickdelrieu.com/projects)
 
 <!--
 
