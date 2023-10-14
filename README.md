@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+NPM PACKAGE
+
+Github action
+
+
+Pic Algo
+![](https://img.shields.io/visual-studio-marketplace/d/pierrickdelrieu.pic-algo)
+
 <!--
 **pierrickdelrieu/pierrickdelrieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
