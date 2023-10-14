@@ -6,20 +6,17 @@
 
 
 
+## Main projects
+
+#### NPM PACKAGE
+
+#### Github action
 
 
-NPM PACKAGE
-
-Github action
-
-
-Pic Algo
+#### - Pic Algo
 ![picalgo](https://img.shields.io/visual-studio-marketplace/d/pierrickdelrieu.pic-algo)
 
 <!--
-**pierrickdelrieu/pierrickdelrieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
