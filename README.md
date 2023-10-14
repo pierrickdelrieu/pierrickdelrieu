@@ -1,3 +1,4 @@
+![GitHub followers](https://img.shields.io/github/followers/pierrickdelrieu?style=social)
 
 [![](https://github.com/pierrickdelrieu/pierrickdelrieu/assets/58939886/e4a19494-8073-4678-9aae-9acfeb68a3aa)](https://www.pierrickdelrieu.com)
 
